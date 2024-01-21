@@ -4,10 +4,7 @@
     
 //     }else{
      
-//         $('.acilmis').removeClass('goster')
-//         $(this).parent().children('.acilmis').addClass('goster')
-//     }
-// });
+
 
 const btn = document.querySelectorAll('.acil')
 const acilmis = document.querySelectorAll('.acilmis')
